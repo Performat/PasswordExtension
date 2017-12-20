@@ -21,14 +21,14 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 PasswordExtension is available through:
 
-* [CocoaPods](http://cocoapods.org)
+### [CocoaPods](http://cocoapods.org)
 To install it, simply add the following line to your `Podfile`:
 
 ```ruby
 pod 'PasswordExtension'
 ```
 
-* [Carthage](https://github.com/Carthage/Carthage)
+### [Carthage](https://github.com/Carthage/Carthage)
 To install it, simply it add the following to your `Cartfile`:
 ```
 github "fahlout/PasswordExtension"

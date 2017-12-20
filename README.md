@@ -55,7 +55,7 @@ Just add a button with an appropriate icon (i.e. the 1Password icon) to your app
 
 <img src="https://github.com/fahlout/PasswordExtension/raw/master/Resources/LoginScreen.png" width="320">
 
-***NOTE: Not every field in PasswordExtensionLoginDetails may be supported in every password manager. PasswordExtensionGeneratedPasswordOptions also may or may not be supported depending on the password manager.***
+***NOTE: Not every field in PasswordExtensionLoginDetails may be supported in every password manager. PEGeneratedPasswordOptions also may or may not be supported depending on the password manager.***
 
 ## Example Code
 
